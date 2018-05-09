@@ -1,3 +1,4 @@
+-[Darryl Paul](https://github.com/darrylpaul)
 ﻿- [Adithya Menon](https://github.com/adithyamenon)
 - [Caleb Powell](https://github.com/Caleb-Powell)
 - [Jeffrey Fabian](https://github.com/jf2978)
